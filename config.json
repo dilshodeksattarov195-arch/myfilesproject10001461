@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchppdate",
+        "uuid": 2249940,
+        "checksum": "r5kj2f"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
